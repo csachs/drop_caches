@@ -1,1 +1,10 @@
+.idea/
+
+CMakeLists.txt
+cmake-build-*/
+
 drop_caches
+.i
+.o
+.s
+linux_syscall_support.h
